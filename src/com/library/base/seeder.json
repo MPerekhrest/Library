@@ -1,0 +1,66 @@
+[
+  {
+    "genres": [
+      {
+        "name": "Fantasy",
+        "description": "Fantasy literature is literature set in an imaginary universe, often but not always without any locations, events, or people from the real world."
+      },
+      {
+        "name": "Horror ",
+        "description": "Horror is a genre of fiction that is intended to disturb, frighten or scare."
+      },
+      {
+        "name": "Romantic ",
+        "description": "Romantic orientation, the classification of the sex or gender with which a person experiences romantic attraction towards or is likely to have a romantic relationship with"
+      }
+    ]
+  },
+  {
+    "authors": [
+      {
+        "name": "Brandon ",
+        "surname": "Sanderson"
+      },
+      {
+        "name": "Linda",
+        "surname": "Edison"
+      },
+      {
+        "name": "nora",
+        "surname": "roberts"
+      }
+    ]
+  },
+  {
+    "books": [
+      {
+        "name": "Warbreaker ",
+        "description": "Warbreaker is the story of two sisters, who happen to be princesses, the God King one of them has to marry, the lesser god who doesn't like his job, and the immortal who's still trying to undo the mistakes he made hundreds of years ago.",
+        "year of issue": "1990"
+      },
+      {
+        "name": "Linda",
+        "description": "Edison",
+        "year of issue": ""
+      },
+      {
+        "name": "nora",
+        "description": "roberts",
+        "year of issue": ""
+
+      },
+      {
+        "name": "nora",
+        "description": "roberts",
+        "year of issue": ""
+
+      },
+      {
+        "name": "nora",
+        "description": "roberts",
+        "year of issue": ""
+
+      }
+    ]
+  }
+]

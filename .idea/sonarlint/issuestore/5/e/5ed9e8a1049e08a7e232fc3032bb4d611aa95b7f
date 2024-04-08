@@ -1,0 +1,21 @@
+
+|
+java:S3516""9Refactor this method to not always return the same value.(Ë•‚ñ8¡…òöë1J$96d6e822-5cab-4d24-897d-76f2de7f285a
+†
+java:S1155%">Use isEmpty() to check whether the collection is empty or not.(€ã“Àûÿÿÿÿ8†èÅöë1J$4350cf12-b785-4412-b017-d9ab262562ac
+f	java:S106&"+Replace this use of System.out by a logger.(ÿ‚ÜØJ$d4deaaa0-9aea-47b5-900d-2df64e7e6333
+k	java:S106)"+Replace this use of System.out by a logger.(¢â‚šùÿÿÿÿJ$aacb8e06-ef1a-4896-bd27-e6fdc34d7d7f
+f	java:S106,"+Replace this use of System.out by a logger.(›æŒÁJ$9722f008-2f0b-40f9-8eb8-8b46cf5cd2f3
+k	java:S1060"+Replace this use of System.out by a logger.(’Åÿ†ÿÿÿÿÿJ$9b1f0b4d-1f80-4569-9023-ce32c81f7dc0
+
+java:S11555">Use isEmpty() to check whether the collection is empty or not.(àùª·8ŽèÅöë1J$5a4d5f74-4644-499c-ad29-ed3e0cf97a3c
+f	java:S1066"+Replace this use of System.out by a logger.(”î¹çJ$5ca6f00f-4874-4566-b2c3-a110ed43b3a4
+f	java:S1069"+Replace this use of System.out by a logger.(´ïöÝJ$604185c5-2ace-40d9-823f-6cea10faca78
+f	java:S106="+Replace this use of System.out by a logger.(›æŒÁJ$d27a4788-b555-4938-9a72-003d9a1821cc
+f	java:S106A"+Replace this use of System.out by a logger.(ô‰ÂÅJ$0f40fe4b-578f-40ca-9c9e-38773e989253
+f	java:S106E"+Replace this use of System.out by a logger.(›æŒÁJ$2afc81df-d2a8-4ab2-a8c8-cbcb5e01cb6f
+f	java:S106J"+Replace this use of System.out by a logger.(›æŒÁJ$6a203f55-a133-477a-9275-8d0beaab3de3
+f	java:S106O"+Replace this use of System.out by a logger.(›æŒÁJ$fb60aed4-b914-4d8a-be20-03442b6ce535
+f	java:S106Y"+Replace this use of System.out by a logger.(›æŒÁJ$1c24f61e-90cd-4fa5-a6a6-475b9064e9e1
+f	java:S106\"+Replace this use of System.out by a logger.(êá¨žJ$9ad34d54-cf42-4609-bdc7-6cbb502b00dc
+f	java:S106a"+Replace this use of System.out by a logger.(›æŒÁJ$5d153d27-4dca-413f-92e6-1960b1ec2e12

@@ -1,0 +1,18 @@
+
+½
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(íÖÑ£J$73a22e1b-3d23-4d83-8204-d12d5ab78c1b
+[
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(Õ’Ê¦8 ®™÷ë1
+k	java:S106"+Replace this use of System.out by a logger.(‡»ÉÀÿÿÿÿÿJ$92777b42-9a31-49d4-8a81-17e873a0169d
+f	java:S106"+Replace this use of System.out by a logger.(Òä¨ÍJ$b35360b1-6a8d-488a-ae7e-18b1e7a8713a
+k	java:S106"+Replace this use of System.out by a logger.(ý”ÞÍýÿÿÿÿJ$192811db-0d34-488b-bbcf-7069a4ec4efe
+{
+java:S18542"?Remove this useless assignment to local variable "description".(çªÊ®J$33e6073a-3fe9-4db9-8a95-55da7abb5705
+t
+java:S18541"8Remove this useless assignment to local variable "name".(€‘åûJ$bb425ba4-227a-4c74-b24b-dd218aa97505
+z
+java:S1117."9Rename "genre" which hides the field declared at line 10.(½Ä‰®ýÿÿÿÿJ$744619d7-e44b-464f-913b-f6c7b7053a59
+e
+java:S14811")Remove this unused "name" local variable.(€‘åûJ$66276873-e217-437b-afd3-32f4b6c46a14
+l
+java:S14812"0Remove this unused "description" local variable.(çªÊ®J$90ec266d-6578-4eae-bf44-510d8f3f3a9f
