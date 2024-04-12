@@ -3,7 +3,7 @@ package com.library;
 import com.library.controllers.AuthorController;
 import com.library.controllers.BookController;
 import com.library.controllers.GenreController;
-import com.library.controllers.InterfaceController;
+import com.library.controllers.MainController;
 import com.library.models.Author;
 import com.library.models.Genre;
 
@@ -23,7 +23,7 @@ public class Main {
 
         boolean inputReady = true;
         while (inputReady) {
-            InterfaceController interfaceController = new InterfaceController();
+            MainController interfaceController = new MainController();
             int select = interfaceController.run();
 
             switch (select) {

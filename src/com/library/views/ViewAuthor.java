@@ -11,11 +11,8 @@ public class ViewAuthor {
     Author author;
     String name;
     String surname;
-
     Scanner scanner;
-
     public ViewAuthor(Author author){this.author = author;}
-
     public boolean getInputs(){
     scanner = new Scanner(System.in);
     title = " please, write name new author:" ;
@@ -26,17 +23,12 @@ public class ViewAuthor {
         System.out.println(title);
         surname = Validator.validateName(scanner);
         author.setSurname(surname);
-
         title ="If you want add new author - push 'y' ";
         System.out.println(title);
         String answer = scanner.nextLine().trim();
-
         if (answer.equals("y")) {
             return true;
         }
-
-//        scanner.close();
         return false;
-
     }
 }

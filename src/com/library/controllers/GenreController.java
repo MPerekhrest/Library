@@ -2,26 +2,17 @@ package com.library.controllers;
 
 import com.library.models.Genre;
 import com.library.views.ViewGenre;
-
 import java.util.ArrayList;
 import java.util.List;
 
 public class GenreController {
-    Genre genre;
     ViewGenre viewGenre;
-    //list
     List<Genre> genres = new ArrayList<>();
-
-    public GenreController() {
-
-    }
-
     public List<Genre> list() {
         return genres;
     }
-
     public void showList() {
-        if (genres.size() == 0 ){
+        if (genres.size() == 0) {
             System.out.println("List of genres is empty!");
 
         } else {
@@ -32,15 +23,10 @@ public class GenreController {
             }
         }
     }
-
-    //create
     public void add(Genre genre) {
         genres.add(genre);
     }
-
-
     public void create() {
-
         boolean inputReady = true;
         while (inputReady) {
             Genre genre = new Genre();
@@ -48,15 +34,8 @@ public class GenreController {
             inputReady = viewGenre.getInputs();
             String name = genre.getName();
             String description = genre.getDescription();
-
-            //add to list of genres
             add(genre);
-
-
         }
-
     }
-
 }
 
-//delete

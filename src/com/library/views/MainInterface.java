@@ -1,13 +1,9 @@
 package com.library.views;
-
 import com.library.utils.Validator;
-
 import java.util.Scanner;
-
-public class ViewInterface {
+public class MainInterface {
     Scanner scanner;
     int buttonKey;
-
     public int getInputs() {
         scanner = new Scanner(System.in);
         System.out.println("Select number 1-7: ");
@@ -19,9 +15,7 @@ public class ViewInterface {
         System.out.println("6: Add new genres. ");
         System.out.println("7: Remove book. ");
         System.out.println("0: Exit. ");
-
         buttonKey = Validator.validateIndex(scanner, 7);
         return buttonKey;
     }
-
 }
